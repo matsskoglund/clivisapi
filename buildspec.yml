@@ -12,7 +12,8 @@ phases:
     commands:
       - echo Build started on `date`
       - echo Compiling the Clivis code
-      - dotnet publish  
+      - dotnet publish 
+      - ls -l 
   post_build:
     commands:
       - echo Post Build completed on `date`
