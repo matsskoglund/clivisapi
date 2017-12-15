@@ -12,11 +12,10 @@ phases:
     commands:
       - echo Build started on `date`
       - echo Compiling the Clivis code
-      - dotnet build  
+      - dotnet publish  
   post_build:
     commands:
-      - echo Build completed on `date`
-      - dotnet publish
+      - echo Post Build completed on `date`
 artifacts:
   files:
     - /bin/Debug/netcoreapp2.0/clivisapi.dll
