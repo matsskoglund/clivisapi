@@ -19,4 +19,4 @@ phases:
       - dotnet publish
 artifacts:
   files:
-    - clivisapi.dll
+    - /bin/Debug/netcoreapp2.0/clivisapi.dll
