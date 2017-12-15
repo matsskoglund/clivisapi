@@ -18,4 +18,4 @@ phases:
       - echo Post Build completed on `date`
 artifacts:
   files:
-    - /bin/Debug/netcoreapp2.0/clivisapi.dll
+    - /bin/Debug/netcoreapp2.0/publish/clivisapi.dll
