@@ -1,1 +1,2 @@
 # clivisapi
+![Build Status](https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiRitCdy9jaTJON2dlRUZkUkZpekFidmdsdDIrUDV2d01uMUVlNVlISUhRM0lUVUpsd0lzSUIvQWdsa05VMk9pc044TkJ0RG9PMmEwbzNoZUZVQy9ZbWg4PSIsIml2UGFyYW1ldGVyU3BlYyI6IkZKNy92SkE2SytGeEFTeWIiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
